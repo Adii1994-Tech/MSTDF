@@ -1,6 +1,6 @@
-# 🚀 Intrusion Detection System (IDS) for IIoT Networks
+# 🚀 Intrusion Detection System (IDS) for Smart Healthcare System (SHS)
 
-This repository contains the implementation of a deep learning-based Intrusion Detection System (IDS) designed for Industrial Internet of Things (IIoT) environments. The proposed approach is evaluated on multiple benchmark datasets and includes an intrinsic interpretability analysis.
+This repository contains the implementation of a deep learning-based Intrusion Detection System (IDS) designed for smart healthcare environments. The proposed approach is evaluated on multiple benchmark datasets and includes an intrinsic interpretability analysis.
 
 
 ## 📂 Repository Structure
